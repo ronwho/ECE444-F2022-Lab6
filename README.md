@@ -1,6 +1,6 @@
 # ECE444-F2022-Lab6
 
-## Procs and Cons of TTD
+## Pros and Cons of TTD
 
 ### Pros
 1. Able to make sure that the new changes did not affect your old testcases, if old testcases fail this makes it easier to debug

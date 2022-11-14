@@ -1,7 +1,7 @@
 # ECE444-F2022-Lab6
 
 ## Add test cases to your group project
-Please see the tests I wrote for my project. Here I tested my own feature checking if the course check qualification is working as expected. All test cases passed after testing.
+Please see the 6 tests I wrote for my project. Here I tested my own feature checking if the course check qualification is working as expected. All test cases passed after testing.
 
 https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-8-8ball/blob/1cb8e038ce08f4599c60a7dbb22fb17958c7bd4a/Education_Pathways/tests/test_app.py#L70-L128
 

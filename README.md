@@ -3,7 +3,15 @@
 ## Add test cases to your group project
 Please see the 6 tests I wrote for my project. The test cases I wrote is highlighted in the link and is wrapped with "START RON'S TEST CASES" and "END RON'S TEST CASES" comments. Here I tested my own feature checking if the course check qualification is working as expected. All test cases passed after testing.
 
-https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-8-8ball/blob/1cb8e038ce08f4599c60a7dbb22fb17958c7bd4a/Education_Pathways/tests/test_app.py#L70-L128
+https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-8-8ball/blob/dd493662b17686bc1bb2a4e62fe6e9c4b4025f82/Education_Pathways/tests/test_app.py#L70-L128
+
+Test cases:
+- test_minors_of_APS360()
+- test_certificates_of_APS360()
+- test_majors_of_APS360()
+- test_minors_of_wrong_course_codes()
+- test_certificates_of_wrong_course_codes()
+- test_majors_of_wrong_course_codes()
 
 ## Pros and Cons of TTD
 
